@@ -32,7 +32,7 @@
 
 <script>
 export default {
-  name: 'HelloWo',
+  name: 'HelloW',
   props: {
     msg: String
   }
